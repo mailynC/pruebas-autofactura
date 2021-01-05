@@ -1,0 +1,4 @@
+[submodule "prodigia-autofactura"]
+	path = prodigia-autofactura
+	url = git@github.com:mailynC/prodigia-autofactura.git
+	branch = 14.0
