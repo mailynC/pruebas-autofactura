@@ -2,3 +2,7 @@
 	path = prodigia-autofactura
 	url = git@github.com:mailynC/prodigia-autofactura.git
 	branch = 14.0
+[submodule "sft_autofactura_ent"]
+	path = sft_autofactura_ent
+	url = git@github.com:softhink25/sft_autofactura_ent.git
+	branch = 14.0
