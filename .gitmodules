@@ -6,3 +6,8 @@
 	path = sft_autofactura_ent
 	url = git@github.com:softhink25/sft_autofactura_ent.git
 	branch = 14.0
+
+[submodule "odoo-prodigia-facturacion"]
+	path = odoo-prodigia-facturacion
+	url = git@github.com:mailynC/odoo-prodigia-facturacion.git
+	branch = 14.0
